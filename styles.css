@@ -1,7 +1,9 @@
 #title {
-    background-color: #3197db;
+    background-color: #267fbb;
   }
-  
+  .hr-divider {
+    background-color: #4e7d9c;
+  }
   .container-fluid {
     padding: 3% 15% 9%;
   }
